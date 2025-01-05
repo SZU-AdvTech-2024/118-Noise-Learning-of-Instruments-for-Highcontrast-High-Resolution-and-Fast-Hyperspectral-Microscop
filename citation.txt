@@ -1,0 +1,10 @@
+@article{REPO118,
+    author = "He, Hao and Cao, Maofeng and Gao, Yun and Zheng, Peng and Yan, Sen and Zhong, Jin-Hui and Wang, Lei and Jin, Dayong and Ren, Bin",
+    journal = "Nature Communications",
+    number = "1",
+    pages = "754",
+    publisher = "Nature Publishing Group UK London",
+    title = "{Noise learning of instruments for high-contrast, high-resolution and fast hyperspectral microscopy and nanoscopy}",
+    volume = "15",
+    year = "2024"
+}
